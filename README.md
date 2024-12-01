@@ -1,3 +1,3 @@
 # Geethaproject
-This is my first Git Repository
-author-Geetha Pai
+This is my first Git Repository.<br>
+Author-Geetha Pai
